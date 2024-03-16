@@ -120,6 +120,8 @@ plt.show()
 
 # OUTPUT:
 ![image](https://github.com/karthika28112004/Ex-2--NN/assets/128035087/bd46fd8d-e38b-471b-b297-bc1cd7a2a425)
+![image](https://github.com/karthika28112004/Ex-2--NN/assets/128035087/d83ec6b5-8b97-43f0-a5ef-45b99cf68197)
+![image](https://github.com/karthika28112004/Ex-2--NN/assets/128035087/ac2029b4-6cb9-4c66-bf00-4cfa6ce12419)
 
 
 # RESULT:
