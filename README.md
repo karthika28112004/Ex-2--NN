@@ -1,4 +1,4 @@
-<H3>Name : Karthika E</H3>
+<H3>Name : KARTHIKA E</H3>
 <H3>Register no : 212222040072</H3>
 <H3>Date : 14/3/2024</H3>
 <H3>Experiment No. 2 </H3>
